@@ -1,5 +1,10 @@
-# 💫 Hi 👋, I'm Ankita Bose
-**An aspiring Data Professional**
+# 💫 Hi 👋, I'm glad you are here!
+**I'm Ankita Bose, and I am passionate about growing my career as a Business Data Professional. I am currently building hands-on projects to strengthen my analytical, problem-solving, and data visualization skills.**
+
+**📈 What I'm Currently Working On**
+- Improving SQL for advanced data analysis
+- Building real-world business case projects
+- Learning data storytelling and dashboard design
 
 Email Me 👉 ✉️ **ankita.bose.1921@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
